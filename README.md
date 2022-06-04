@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achte-2022
 - 👀 I’m interested in ML, DL, ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on ML Projects(Beginner)
 - 📫 How to reach me https://twitter.com/achte_te
 
